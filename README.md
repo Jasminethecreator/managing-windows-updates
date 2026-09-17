@@ -1,25 +1,28 @@
-<h1>Managing Windows Updates</h1>
-This tutorial outlines the process to check for, install, and manage Windows updates to keep
-systems secure, stable, and running efficiently.<br />
-<h2>Environments and Technologies Used</h2>
-- Microsoft Azure
-- Windows Environment
-<h2>Operating Systems Used </h2>
-- Windows 11
-<h2>Checking for Updates</h2>
-<p>
+# Managing Windows Updates
 
-[Image Placeholder]
-</p>
-<p>
-Checked for Windows Update for VM - let the updates continue.
-</p>
-<br />
-<p>
+## Objective
+Check for, install, and manage Windows updates to keep systems secure, stable, and running efficiently.
 
+## Scenario
+This lab simulated routine system maintenance by checking a virtual machine for pending Windows updates and confirming successful installation.
+
+## Tasks Completed
+Checked for available Windows updates on the VM and allowed them to install.
+Confirmed the updates completed successfully.
+
+## Screenshots
 [Image Placeholder]
-</p>
-<p>
-After Windows was updated and completed.
-</p>
-<br />
+[Image Placeholder]
+
+## Skills Demonstrated
+Patch Management
+Windows Administration
+System Maintenance
+
+## What I Learned
+This lab reinforced why regular update checks matter for system security and stability, and gave me hands-on practice confirming updates completed successfully rather than assuming they had.
+
+## Lab Environment
+Microsoft Azure
+Windows Environment
+Windows 11
